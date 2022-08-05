@@ -17,11 +17,24 @@
             int wagePerHour = 20;
             int fullDayHour = 8;
 
+            //UC3 Added 
+            Random workinghr = new Random();
+            int workingHr = attendance.Next(0, 2);
+            int partTime = 4;
 
             if (value == 0)
             {
-                Console.WriteLine("Employee is Present");
-                Console.WriteLine("Employee todays wage is:" + fullDayHour * wagePerHour);
+                if (workingHr == 0)
+                {
+                    Console.WriteLine("Employee is Present");
+                    Console.WriteLine("Employee todays wage is:" + fullDayHour * wagePerHour);
+                }
+                else
+                {
+                    Console.WriteLine("Employee is Present for Halfday");
+                    Console.WriteLine("Employee todays wage is:" + partTime * wagePerHour);
+                }
+               
                            
             }
             else
