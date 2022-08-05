@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\bin\Debug\net6.0\Day3_Employee_Wage.exe
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\bin\Debug\net6.0\Day3_Employee_Wage.deps.json
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\bin\Debug\net6.0\Day3_Employee_Wage.runtimeconfig.json
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\bin\Debug\net6.0\Day3_Employee_Wage.dll
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\bin\Debug\net6.0\Day3_Employee_Wage.pdb
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.dll
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\refint\Day3_Employee_Wage.dll
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.pdb
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\Day3_Employee_Wage.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BGLAB\Day3_Employee_Wage\obj\Debug\net6.0\ref\Day3_Employee_Wage.dll

@@ -12,13 +12,22 @@
             Random attendance = new Random();
             int value = attendance.Next(0, 2);
 
+            //UC2 Added 
+
+            int wagePerHour = 20;
+            int fullDayHour = 8;
+
+
             if (value == 0)
             {
-                Console.WriteLine("Employee is Absent");
+                Console.WriteLine("Employee is Present");
+                Console.WriteLine("Employee todays wage is:" + fullDayHour * wagePerHour);
+                           
             }
             else
             {
-                Console.WriteLine("Employee is Present");
+                Console.WriteLine("Employee is Absent");
+                Console.WriteLine("Employee todays wage is: 0");
             }
 
         }
